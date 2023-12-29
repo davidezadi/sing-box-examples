@@ -19,7 +19,7 @@
         {
             "type": "shadowtls",
             "tag": "shadowtls-out",
-            "server": "ss-1ae11ce55d-daudd1.apps.ir-thr-ba1.arvancaas.ir",
+            "server": "sb3-1ae11ce55d-daudd1.apps.ir-thr-ba1.arvancaas.ir",
             "server_port": 443,
             "version": 3,
             "password": "davidezadi",
