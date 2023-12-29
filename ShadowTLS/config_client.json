@@ -25,7 +25,7 @@
             "password": "davidezadi",
             "tls": {
                 "enabled": true,
-                "server_name": ""
+                "server_name": "google.com"
             }
         }
     ]
