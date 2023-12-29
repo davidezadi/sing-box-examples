@@ -11,7 +11,7 @@
             "type": "shadowsocks",
             "detour": "shadowtls-out",
             "method": "2022-blake3-aes-128-gcm",
-            "password": "",
+            "password": "Q/nYXbXYVC8K5PSsrXDbCg==",
             "multiplex": {
                 "enabled": true
             }
@@ -19,10 +19,10 @@
         {
             "type": "shadowtls",
             "tag": "shadowtls-out",
-            "server": "",
+            "server": "ss-1ae11ce55d-daudd1.apps.ir-thr-ba1.arvancaas.ir",
             "server_port": 443,
             "version": 3,
-            "password": "",
+            "password": "davidezadi",
             "tls": {
                 "enabled": true,
                 "server_name": ""
